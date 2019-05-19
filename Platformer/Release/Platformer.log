@@ -1,0 +1,130 @@
+﻿  Actor.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(136): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(137): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(206): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(207): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(276): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(277): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(303): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(304): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(321): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\actor.cpp(322): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  AnimatedTexture.cpp
+  AssetManager.cpp
+  AudioManager.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\audiomanager.cpp(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\audiomanager.cpp(75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\audiomanager.cpp(76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\audiomanager.cpp(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\audiomanager.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\audiomanager.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Background.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\background.cpp(11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\background.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Beam.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\beam.cpp(48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Boss.cpp
+  BoxCollider.cpp
+  Bullet.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\bullet.cpp(8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CircleCollider.cpp
+  Collider.cpp
+  Demon.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\demon.cpp(339): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  DragonBreath.cpp
+  DragonStage.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\dragonstage.cpp(17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Event.cpp
+  EventManager.cpp
+  Explosion.cpp
+  FireBall.cpp
+  Flame.cpp
+  Flamethrower.cpp
+  Compiling...
+  Foreground.cpp
+  GameEntity.cpp
+  GameManager.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\gamemanager.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Graphics.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(158): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(159): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(168): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(174): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(178): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\graphics.cpp(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Grenade.cpp
+  Gun.cpp
+  Icicle.cpp
+  InputManager.cpp
+  Interface.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(48): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(128): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\interface.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Laser.cpp
+  Launcher.cpp
+  Level.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\level.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Map.cpp
+  Minion.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\minion.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\minion.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\minion.cpp(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\minion.cpp(139): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\minion.cpp(179): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  MinionAttack.cpp
+  PhysEntity.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physentity.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physentity.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physentity.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physentity.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physentity.cpp(125): warning C4018: '<': signed/unsigned mismatch
+  PhysicsManager.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physicsmanager.cpp(32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physicsmanager.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physicsmanager.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\physicsmanager.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\player.cpp(121): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\player.cpp(141): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\player.cpp(162): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\player.cpp(171): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\player.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PlayScreen.cpp
+  Compiling...
+  ProjectileManager.cpp
+  SettingScreen.cpp
+  Spell.cpp
+  DemonStage.cpp
+  StartScreen.cpp
+  Projectile.cpp
+  ScreenManager.cpp
+  Texture.cpp
+  Tile.cpp
+  Timer.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\timer.cpp(40): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  TwinDragon.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\twindragon.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Weapon.cpp
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\weapon.cpp(62): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\weapon.cpp(67): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\weapon.cpp(85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\platformer\platformer\weapon.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2905 of 2905 functions (100.0%) were compiled.
+    255 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Platformer.vcxproj -> C:\Users\2339695\Desktop\Stephen Benner\Games\Platformer\Release\Platformer.exe
